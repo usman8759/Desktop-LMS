@@ -1,0 +1,8 @@
+D:\Usman\University work\OOP\FlexGui\x64\Debug\FlexGui.exe
+D:\Usman\University work\OOP\FlexGui\x64\Debug\FlexGui.vcxproj.AssemblyReference.cache
+D:\Usman\University work\OOP\FlexGui\x64\Debug\FlexGui.vcxproj.SuggestedBindingRedirects.cache
+D:\Usman\University work\OOP\FlexGui\x64\Debug\FlexGui.AdminForm.resources
+D:\Usman\University work\OOP\FlexGui\x64\Debug\FlexGui.LoginForm.resources
+D:\Usman\University work\OOP\FlexGui\x64\Debug\FlexGui.TeacherForm.resources
+D:\Usman\University work\OOP\FlexGui\x64\Debug\FlexGui.vcxproj.GenerateResource.cache
+D:\Usman\University work\OOP\FlexGui\x64\Debug\FlexGui.StudentForm.resources
